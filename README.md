@@ -1,2 +1,4 @@
 # Machine-Translation-Model
-Using Transformer based model
+using Tensorflow, Keras
+Translating text from English to Hindi using transformerbased model using attention mechanism.
+
